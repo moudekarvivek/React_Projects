@@ -7,6 +7,8 @@
     background-color: #f9f9f9;
     font-family: sans-serif;
     justify-content: center;
+    min-height: 100vh;
+    min-width: 80vw;
 }
 
 h1, h3 {
